@@ -1,0 +1,7 @@
+# MyFactorial
+def MyFactorial(n: int):
+  resultado = 1
+  for i in range(1, n+1)
+  resultado = resultado*i
+  return resultado
+  
